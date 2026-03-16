@@ -1,6 +1,6 @@
 {
   "name": "datahub",
-  "description": "DataHub platform expertise for Copilot — curated skills for dlt, Dagster, dbt, Terraform, K8s, and ODCS data contracts",
+  "description": "DataHub platform expertise for Copilot - curated skills for dlt, Dagster, dbt, Terraform, K8s, and ODCS data contracts",
   "version": "0.1.0",
   "author": {
     "name": "DataHub Platform Team"

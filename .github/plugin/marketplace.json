@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "datahub",
-      "description": "DataHub platform expertise — curated skills for dlt, Dagster, dbt, infrastructure, K8s, and data contracts",
+      "description": "DataHub platform expertise - curated skills for dlt, Dagster, dbt, infrastructure, K8s, and data contracts",
       "version": "0.1.0",
       "source": "./plugins/datahub"
     }
